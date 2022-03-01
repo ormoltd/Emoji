@@ -28,6 +28,7 @@ final class FlagsCategoryChunk0 {
       new GoogleCompatEmoji(0x1F3F4, new String[]{"waving_black_flag"}, false),
       new GoogleCompatEmoji(new int[] { 0x1F3F3, 0xFE0F }, new String[]{"waving_white_flag"}, false),
       new GoogleCompatEmoji(new int[] { 0x1F3F3, 0xFE0F, 0x200D, 0x1F308 }, new String[]{"rainbow-flag"}, false),
+      new GoogleCompatEmoji(new int[] { 0x1F3F3, 0xFE0F, 0x200D, 0x26A7, 0xFE0F }, new String[]{"transgender_flag"}, false),
       new GoogleCompatEmoji(new int[] { 0x1F3F4, 0x200D, 0x2620, 0xFE0F }, new String[]{"pirate_flag"}, false),
       new GoogleCompatEmoji(new int[] { 0x1F1E6, 0x1F1E8 }, new String[]{"flag-ac"}, false),
       new GoogleCompatEmoji(new int[] { 0x1F1E6, 0x1F1E9 }, new String[]{"flag-ad"}, false),
@@ -270,8 +271,7 @@ final class FlagsCategoryChunk0 {
       new GoogleCompatEmoji(new int[] { 0x1F1FA, 0x1F1F2 }, new String[]{"flag-um"}, false),
       new GoogleCompatEmoji(new int[] { 0x1F1FA, 0x1F1F3 }, new String[]{"flag-un"}, false),
       new GoogleCompatEmoji(new int[] { 0x1F1FA, 0x1F1F8 }, new String[]{"us", "flag-us"}, false),
-      new GoogleCompatEmoji(new int[] { 0x1F1FA, 0x1F1FE }, new String[]{"flag-uy"}, false),
-      new GoogleCompatEmoji(new int[] { 0x1F1FA, 0x1F1FF }, new String[]{"flag-uz"}, false)
+      new GoogleCompatEmoji(new int[] { 0x1F1FA, 0x1F1FE }, new String[]{"flag-uy"}, false)
     };
   }
 

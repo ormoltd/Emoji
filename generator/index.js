@@ -227,7 +227,7 @@ async function parse() {
     console.log("Parsing files...");
 
     const result = new Map();
-    const filteredEmojiData = emojiData.filter(it => it.category !== "Skin Tones");
+    const filteredEmojiData = emojiData.filter(it => it.category !== "Skin Tones" && it.category !== 'Component');
     const preparedEmojiData = stable(filteredEmojiData, (first, second) => first.sort_order - second.sort_order);
 
     for (const dataEntry of preparedEmojiData) {

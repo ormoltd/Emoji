@@ -22,6 +22,7 @@ import com.vanniktech.emoji.googlecompat.GoogleCompatEmoji;
 final class FlagsCategoryChunk1 {
   @SuppressWarnings("PMD.ExcessiveMethodLength") static GoogleCompatEmoji[] get() {
     return new GoogleCompatEmoji[] {
+      new GoogleCompatEmoji(new int[] { 0x1F1FA, 0x1F1FF }, new String[]{"flag-uz"}, false),
       new GoogleCompatEmoji(new int[] { 0x1F1FB, 0x1F1E6 }, new String[]{"flag-va"}, false),
       new GoogleCompatEmoji(new int[] { 0x1F1FB, 0x1F1E8 }, new String[]{"flag-vc"}, false),
       new GoogleCompatEmoji(new int[] { 0x1F1FB, 0x1F1EA }, new String[]{"flag-ve"}, false),
