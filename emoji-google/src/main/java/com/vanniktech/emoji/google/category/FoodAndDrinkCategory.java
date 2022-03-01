@@ -25,7 +25,7 @@ import com.vanniktech.emoji.google.R;
 import com.vanniktech.emoji.google.GoogleEmoji;
 
 @SuppressWarnings("PMD.MethodReturnsInternalArray") public final class FoodAndDrinkCategory implements EmojiCategory {
-  private static final GoogleEmoji[] EMOJIS = CategoryUtils.concatAll(FoodAndDrinkCategoryChunk0.get());
+  private static final GoogleEmoji[] EMOJIS = CategoryUtils.concatAll(FoodAndDrinkCategoryChunk0.get(), FoodAndDrinkCategoryChunk1.get());
 
   @Override @NonNull public GoogleEmoji[] getEmojis() {
     return EMOJIS;

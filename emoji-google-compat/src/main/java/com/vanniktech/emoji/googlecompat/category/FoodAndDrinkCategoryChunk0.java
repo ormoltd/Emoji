@@ -141,16 +141,7 @@ final class FoodAndDrinkCategoryChunk0 {
       new GoogleCompatEmoji(0x1F942, new String[]{"clinking_glasses"}, false),
       new GoogleCompatEmoji(0x1F943, new String[]{"tumbler_glass"}, false),
       new GoogleCompatEmoji(0x1F964, new String[]{"cup_with_straw"}, false),
-      new GoogleCompatEmoji(0x1F9CB, new String[]{"bubble_tea"}, false),
-      new GoogleCompatEmoji(0x1F9C3, new String[]{"beverage_box"}, false),
-      new GoogleCompatEmoji(0x1F9C9, new String[]{"mate_drink"}, false),
-      new GoogleCompatEmoji(0x1F9CA, new String[]{"ice_cube"}, false),
-      new GoogleCompatEmoji(0x1F962, new String[]{"chopsticks"}, false),
-      new GoogleCompatEmoji(new int[] { 0x1F37D, 0xFE0F }, new String[]{"knife_fork_plate"}, false),
-      new GoogleCompatEmoji(0x1F374, new String[]{"fork_and_knife"}, false),
-      new GoogleCompatEmoji(0x1F944, new String[]{"spoon"}, false),
-      new GoogleCompatEmoji(0x1F52A, new String[]{"hocho", "knife"}, false),
-      new GoogleCompatEmoji(0x1F3FA, new String[]{"amphora"}, false)
+      new GoogleCompatEmoji(0x1F9CB, new String[]{"bubble_tea"}, false)
     };
   }
 

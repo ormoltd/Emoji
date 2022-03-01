@@ -141,16 +141,7 @@ final class FoodAndDrinkCategoryChunk0 {
       new TwitterEmoji(0x1F942, new String[]{"clinking_glasses"}, 43, 27, false),
       new TwitterEmoji(0x1F943, new String[]{"tumbler_glass"}, 43, 28, false),
       new TwitterEmoji(0x1F964, new String[]{"cup_with_straw"}, 44, 0, false),
-      new TwitterEmoji(0x1F9CB, new String[]{"bubble_tea"}, 46, 32, false),
-      new TwitterEmoji(0x1F9C3, new String[]{"beverage_box"}, 46, 24, false),
-      new TwitterEmoji(0x1F9C9, new String[]{"mate_drink"}, 46, 30, false),
-      new TwitterEmoji(0x1F9CA, new String[]{"ice_cube"}, 46, 31, false),
-      new TwitterEmoji(0x1F962, new String[]{"chopsticks"}, 43, 58, false),
-      new TwitterEmoji(new int[] { 0x1F37D, 0xFE0F }, new String[]{"knife_fork_plate"}, 7, 7, false),
-      new TwitterEmoji(0x1F374, new String[]{"fork_and_knife"}, 6, 58, false),
-      new TwitterEmoji(0x1F944, new String[]{"spoon"}, 43, 29, false),
-      new TwitterEmoji(0x1F52A, new String[]{"hocho", "knife"}, 30, 36, false),
-      new TwitterEmoji(0x1F3FA, new String[]{"amphora"}, 10, 50, false)
+      new TwitterEmoji(0x1F9CB, new String[]{"bubble_tea"}, 46, 32, false)
     };
   }
 

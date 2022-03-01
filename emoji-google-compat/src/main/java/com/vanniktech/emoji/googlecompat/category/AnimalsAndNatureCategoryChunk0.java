@@ -141,27 +141,7 @@ final class AnimalsAndNatureCategoryChunk0 {
       new GoogleCompatEmoji(0x1F9A0, new String[]{"microbe"}, false),
       new GoogleCompatEmoji(0x1F490, new String[]{"bouquet"}, false),
       new GoogleCompatEmoji(0x1F338, new String[]{"cherry_blossom"}, false),
-      new GoogleCompatEmoji(0x1F4AE, new String[]{"white_flower"}, false),
-      new GoogleCompatEmoji(new int[] { 0x1F3F5, 0xFE0F }, new String[]{"rosette"}, false),
-      new GoogleCompatEmoji(0x1F339, new String[]{"rose"}, false),
-      new GoogleCompatEmoji(0x1F940, new String[]{"wilted_flower"}, false),
-      new GoogleCompatEmoji(0x1F33A, new String[]{"hibiscus"}, false),
-      new GoogleCompatEmoji(0x1F33B, new String[]{"sunflower"}, false),
-      new GoogleCompatEmoji(0x1F33C, new String[]{"blossom"}, false),
-      new GoogleCompatEmoji(0x1F337, new String[]{"tulip"}, false),
-      new GoogleCompatEmoji(0x1F331, new String[]{"seedling"}, false),
-      new GoogleCompatEmoji(0x1FAB4, new String[]{"potted_plant"}, false),
-      new GoogleCompatEmoji(0x1F332, new String[]{"evergreen_tree"}, false),
-      new GoogleCompatEmoji(0x1F333, new String[]{"deciduous_tree"}, false),
-      new GoogleCompatEmoji(0x1F334, new String[]{"palm_tree"}, false),
-      new GoogleCompatEmoji(0x1F335, new String[]{"cactus"}, false),
-      new GoogleCompatEmoji(0x1F33E, new String[]{"ear_of_rice"}, false),
-      new GoogleCompatEmoji(0x1F33F, new String[]{"herb"}, false),
-      new GoogleCompatEmoji(new int[] { 0x2618, 0xFE0F }, new String[]{"shamrock"}, false),
-      new GoogleCompatEmoji(0x1F340, new String[]{"four_leaf_clover"}, false),
-      new GoogleCompatEmoji(0x1F341, new String[]{"maple_leaf"}, false),
-      new GoogleCompatEmoji(0x1F342, new String[]{"fallen_leaf"}, false),
-      new GoogleCompatEmoji(0x1F343, new String[]{"leaves"}, false)
+      new GoogleCompatEmoji(0x1F4AE, new String[]{"white_flower"}, false)
     };
   }
 
